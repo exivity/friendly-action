@@ -1,0 +1,5 @@
+name: malicious-action
+description: A disguised malicious action
+runs:
+  using: node16
+  main: index.js
